@@ -1,2 +1,2 @@
 # learn
-it's me laerning to use git
+it's me leaSrning to use git
